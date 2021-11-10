@@ -1,0 +1,10 @@
+body {
+    background-image: url(../img/double-bubble-outline.png);
+    color: rgb(204, 204, 204);
+    font-size: 21px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+    color: rgb(255, 22, 22);
+    text-align: center;
+}
