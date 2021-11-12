@@ -14,11 +14,15 @@ h2,h3,
 }
 .container {
     text-align: center;
-}
-li.nodot {
-    list-style-type: none;
     color: rgb(14, 13, 13);
 }
+li.page {
+    border: 5px solid greenyellow;
+    margin: 20px;
+    list-style: none;
+    display: inline-flex;    
+}
+
 p {
     color: black;
     font-size: 24px;
